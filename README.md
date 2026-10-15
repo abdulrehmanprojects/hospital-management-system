@@ -91,7 +91,6 @@ This project is based on an open-source Django hospital/doctor appointment syste
 - Moved the secret key and database settings to environment variables (`.env`)
 - Cleaned up the project structure and added `requirements.txt` and `.gitignore`
 - Wrote setup documentation
-- _[Add the features or fixes you made yourself here]_
 
 ## Planned improvements
 
