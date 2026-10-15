@@ -1,0 +1,22 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor settings
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Databases and dumps
+*.sqlite3
+*.sql
+
+# Secrets
+.env
+
+# User-uploaded files
+media/
